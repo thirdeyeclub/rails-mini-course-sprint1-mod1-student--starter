@@ -1,4 +1,4 @@
-# Rails Mini Course - Sprint 1 - Module 1 - You Do (Solution)
+# Ruby on Rails - Sprint 1 - Module 1 - Project
 
 ## Introduction
 
