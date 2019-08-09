@@ -1,4 +1,4 @@
-# Ruby on Rails - Sprint 1 - Module 1 - Project
+# Ruby on Rails - Ruby & Ruby on Rails Basics - Ruby Basics - Project
 
 ## Introduction
 
